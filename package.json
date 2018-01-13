@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishdha/node-weather-app.git"
+  },
+  "author": "Vishal Dhayagude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishdha/node-weather-app/issues"
+  },
+  "homepage": "https://github.com/vishdha/node-weather-app#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "yargs": "^10.1.1"
+  }
+}
